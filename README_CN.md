@@ -145,7 +145,7 @@ ESP32-S3-WROOM-1 详细资料见 [ESP32-S3 数据手册](https://www.espressif.c
 
 ### 2.2 GPIO 定义
 
-![gpio](images/GPIO.png)
+![gpio](image/GPIO.png)
 
 ## 3. 软件
 
