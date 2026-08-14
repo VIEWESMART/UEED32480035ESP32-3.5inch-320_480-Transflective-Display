@@ -145,7 +145,7 @@ ESP32-S3-WROOM-1 详细资料见 [ESP32-S3 数据手册](https://www.espressif.c
 
 ### 2.2 GPIO 定义
 
-![gpio](images/GPIO.png)
+![gpio](image/GPIO.png)
 
 ## 3. 软件
 
@@ -185,7 +185,7 @@ ESP32-S3-WROOM-1 详细资料见 [ESP32-S3 数据手册](https://www.espressif.c
 
 **规格书与芯片资料**
 
-- [UEED32480035E-WB-A V1.0 规格书](datasheet/UEED32480035E-WB-A%20V1.0%20SPEC.doc)
+- [UEED32480035E-WB-A V1.0 规格书](datasheet/UEED32480035E-WB-A%20V1.0%20SPEC.pdf)
 - [电路图](Schematic/UEDX24320028E-WB-A%20V1.1%20sch.pdf)
 - [CHSC6540 触摸 IC](datasheet/DS_CHSC6540_V1.0%20Datasheet.pdf)
 - [WS2812B RGB LED](datasheet/C2843785_RGB%2BLED(Built-in%20IC)_XL-5050RGBC-WS2812B_specification_WJ1123912.PDF)

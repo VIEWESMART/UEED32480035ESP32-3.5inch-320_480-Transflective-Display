@@ -145,7 +145,7 @@ With rich connectivity, powerful processing capabilities and outdoor-oriented re
 
 ### 2.2 GPIO Definition
 
-![gpio](images/GPIO.png)
+![gpio](image/GPIO.png)
 
 
 ## 3. Software
@@ -186,7 +186,7 @@ For detailed procedures, please refer to the esp-idf example folder at [README.m
 
 **Specification & datasheets**
 
-- [UEED32480035E-WB-A V1.0 SPEC](datasheet/UEED32480035E-WB-A%20V1.0%20SPEC.doc)
+- [UEED32480035E-WB-A V1.0 SPEC](datasheet/UEED32480035E-WB-A%20V1.0%20SPEC.pdf)
 - [Schematic](Schematic/UEDX24320028E-WB-A%20V1.1%20sch.pdf)
 - [CHSC6540 Touch IC](datasheet/DS_CHSC6540_V1.0%20Datasheet.pdf)
 - [WS2812B RGB LED](datasheet/C2843785_RGB%2BLED(Built-in%20IC)_XL-5050RGBC-WS2812B_specification_WJ1123912.PDF)
