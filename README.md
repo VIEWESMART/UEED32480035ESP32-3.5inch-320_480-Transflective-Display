@@ -145,7 +145,7 @@ With rich connectivity, powerful processing capabilities and outdoor-oriented re
 
 ### 2.2 GPIO Definition
 
-![gpio](images/GPIO.png)
+![gpio](image/GPIO.png)
 
 
 ## 3. Software
